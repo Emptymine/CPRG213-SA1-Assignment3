@@ -223,7 +223,7 @@ main p{
 .contact {
     height: 420px;
     margin:auto; 
-    /* text-align: center; */
+    text-align: center;
 }
 
 label{
@@ -237,7 +237,7 @@ input, textarea{
 }
 
 #submit-button{
-    margin:0 0 0 410px;
+    margin:0 0 0 174px;
     width: 310px;
 }
 
